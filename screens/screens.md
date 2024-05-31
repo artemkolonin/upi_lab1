@@ -8,3 +8,5 @@
 ![image](https://github.com/artemkolonin/upi_lab1/assets/56628455/f16611dc-eeb6-4539-b21b-58a46e833b53)  
 Переключаемся на ветку main и делаем слияние с веткой dev  
 ![image](https://github.com/artemkolonin/upi_lab1/assets/56628455/3774ded3-625e-4ebc-842e-93639e50bbcc)  
+Загружаем репозиторий на github  
+![image](https://github.com/artemkolonin/upi_lab1/assets/56628455/0dac7774-bd6c-43f8-8ebd-d4200dac0611)  
