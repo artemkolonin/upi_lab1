@@ -10,3 +10,5 @@
 ![image](https://github.com/artemkolonin/upi_lab1/assets/56628455/3774ded3-625e-4ebc-842e-93639e50bbcc)  
 Загружаем репозиторий на github  
 ![image](https://github.com/artemkolonin/upi_lab1/assets/56628455/0dac7774-bd6c-43f8-8ebd-d4200dac0611)  
+Видим загруженные файлы  
+![image](https://github.com/artemkolonin/upi_lab1/assets/56628455/2f73f4ed-c0fb-4c16-922d-e6b3e87b14b4)
